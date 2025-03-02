@@ -1,7 +1,6 @@
 package avesV3;
 
-import avesV3.TipoSonido;
-import avesV3.TipoVuelo;
+
 
 public abstract class Ave {
     private TipoSonido tipoSonido;
