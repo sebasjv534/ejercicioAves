@@ -5,4 +5,7 @@ public class AvesTruz extends Ave {
     public void makeSound() {
         System.out.println("<<Silencio>>");
     }
+    public void fly() {
+        System.out.println("<<No puede volar>>");
+    }
 }

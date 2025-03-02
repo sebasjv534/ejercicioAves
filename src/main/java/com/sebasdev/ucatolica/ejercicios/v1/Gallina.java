@@ -5,4 +5,8 @@ public class Gallina extends Ave {
     public void makeSound() {
         System.out.println("<<Canta>>");
     }
+
+    public void fly() {
+        System.out.println("<<Vuela con alas>>");
+    }
 }
